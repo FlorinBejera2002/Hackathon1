@@ -1,4 +1,49 @@
-.header{
-    color: rgb(124, 124, 171)
-    
+.header {
+  background-color: antiquewhite;
+  color: rgb(124, 124, 171);
+}
+
+*Global .active-border {
+  border-bottom: 2px solid black;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  color: rgb(48, 48, 117);
+}
+
+.unstyled-list {
+  list-style: none;
+}
+
+.header-items {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 50px;
+  margin-left: 60%;
+  padding: 30px;
+  font-size: 40px;
+}
+
+.description {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  gap: 72%;
+}
+
+.description p {
+  font-size: 25px;
+}
+
+/* footer */
+
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
 }
