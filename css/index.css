@@ -1,9 +1,7 @@
-.header {
-  background-color: antiquewhite;
-  color: rgb(124, 124, 171);
-}
+/* 
+Global  */
 
-*Global .active-border {
+.active-border {
   border-bottom: 2px solid black;
 }
 
@@ -19,6 +17,12 @@
   list-style: none;
 }
 
+/* header */
+.header {
+  background-color: antiquewhite;
+  color: rgb(124, 124, 171);
+}
+
 .header-items {
   display: flex;
   align-items: center;
@@ -28,7 +32,12 @@
   padding: 30px;
   font-size: 40px;
 }
-
+ 
+/* main */
+.image{
+    margin: 0px 10px;
+    width: 100%;
+}
 .description {
   display: flex;
   align-items: center;
@@ -43,7 +52,10 @@
 /* footer */
 
 .footer {
+    width: 100%;
+    height: 80px;
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  background-color: rgb(238, 224, 224);
 }
