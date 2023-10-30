@@ -83,11 +83,11 @@ Global  */
   padding: 230px;
 }
 .button-about {
-  border: 2px solid black;
   font-size: 2em;
   padding: 0 40px;
   font-family: "Pacifico", cursive;
-
+  border: 2px solid black;
+  
 }
 /* footer */
 
