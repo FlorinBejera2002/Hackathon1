@@ -1,3 +1,3 @@
-const lightbox
+const lightbox ()
 
 
