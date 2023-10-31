@@ -1,5 +1,4 @@
 const lightbox () {
-    const message
-}
+    const message = ""
 
 
