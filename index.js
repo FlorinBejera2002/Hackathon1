@@ -1,4 +1,4 @@
 const lightbox () {
-    const message = "ima
+    const message = "im
 
 
