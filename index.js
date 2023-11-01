@@ -1,5 +1,5 @@
 const lightbox () {
-    const mess
+    const mes
 
 
 
