@@ -18,8 +18,9 @@
 
 /* header */
 .header {
-  margin: none;
   background-color: antiquewhite;
+  width: 100%;
+ 
 }
 
 .header-items {
