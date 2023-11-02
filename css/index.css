@@ -62,12 +62,11 @@
   margin: 0px 30px;
   display: flex;
   flex-wrap: wrap;
-  gap: 30px;
 }
 
 .images img {
   width: 354px;
-  height: 158px;
+  height: 155px;
   padding: 5px;
 }
 
@@ -102,6 +101,8 @@
   justify-content: flex-end;
   align-items: center;
   background-color: rgb(238, 224, 224);
+  position: fixed;
+  bottom: 0px;
 }
 
 .footer button {
