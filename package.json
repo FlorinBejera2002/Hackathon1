@@ -1,0 +1,27 @@
+{
+  "name": "hackathon1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lightbox2": "^2.11.4",
+    "node": "^21.1.0",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorinBejera2002/Hackathon1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorinBejera2002/Hackathon1/issues"
+  },
+  "homepage": "https://github.com/FlorinBejera2002/Hackathon1#readme"
+}
