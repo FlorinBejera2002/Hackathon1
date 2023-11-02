@@ -1,6 +1,6 @@
 const buttonAlert = document.getElementById("button");
 function alertButton(buttonAlert) {
-    const button = buttonAlert.onClick.alert("Hello world");
+    const button = buttonAlert.onclick.alert("Hello world");
     return button
 }
 alertButton(button)
