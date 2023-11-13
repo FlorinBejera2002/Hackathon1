@@ -5,4 +5,4 @@
 // }
 // alertButton(button)
 // console.log(alertButton);
-//  1
+//  2
