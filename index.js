@@ -1,9 +1,8 @@
-// const buttonAlert = document.getElementById("button");
-// function alertButton(buttonAlert) {
-//     const button = buttonAlert.onclick.alert("Hello world");
-//     return button
-// }
-// alertButton(button)
-// console.log(alertButton);
-//  27
+let elvis = 10
+let florin = elvis;
+console.log(florin);
 
+elvis = 12;
+console.log(elvis)
+console.log(florin)
+// 1
